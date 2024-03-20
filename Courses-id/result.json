@@ -1,0 +1,47 @@
+{
+  "_class": "course",
+  "id": 3773862,
+  "title": "【導入編・無料】未経験から合格！Cisco CCNA試験対策講座（Packet Tracerの演習も完備！）",
+  "url": "/course/ccna200-301-n0/",
+  "is_paid": false,
+  "price": "Free",
+  "price_detail": null,
+  "price_serve_tracking_id": "Cz7c5UdpT2y66A5YGiDJ9A",
+  "visible_instructors": [
+    {
+      "_class": "user",
+      "title": "ウズウズ カレッジ",
+      "name": "ウズウズ",
+      "display_name": "ウズウズ カレッジ",
+      "job_title": "IT分野（Java/データベース/Webアプリケーション/CCNA/LinuC/Linux/ITパスポート）",
+      "image_50x50": "https://img-b.udemycdn.com/user/50x50/118130142_bf10_3.jpg",
+      "image_100x100": "https://img-b.udemycdn.com/user/100x100/118130142_bf10_3.jpg",
+      "initials": "",
+      "url": "/user/shotaro-kawabata/"
+    },
+    {
+      "_class": "user",
+      "title": "ウズウズカレッジ 学習サポート",
+      "name": "ウズウズカレッジ",
+      "display_name": "ウズウズカレッジ 学習サポート",
+      "job_title": "IT分野（Java/データベース/Webアプリケーション/CCNA/LinuC/Linux/ITパスポート）",
+      "image_50x50": "https://img-b.udemycdn.com/user/50x50/209043510_f3fa_2.jpg",
+      "image_100x100": "https://img-b.udemycdn.com/user/100x100/209043510_f3fa_2.jpg",
+      "initials": "",
+      "url": "/user/uzuuzukaretsuzixue-xi-sapoto/"
+    }
+  ],
+  "image_125_H": "https://img-b.udemycdn.com/course/125_H/3773862_e331_3.jpg",
+  "image_240x135": "https://img-b.udemycdn.com/course/240x135/3773862_e331_3.jpg",
+  "is_practice_test_course": false,
+  "image_480x270": "https://img-b.udemycdn.com/course/480x270/3773862_e331_3.jpg",
+  "published_title": "ccna200-301-n0",
+  "tracking_id": "sJmz81pZQGCGzhRzHzJwXA",
+  "locale": {
+    "_class": "locale",
+    "locale": "ja_JP",
+    "title": "日本語",
+    "english_title": "Japanese",
+    "simple_english_title": "Japanese"
+  }
+}

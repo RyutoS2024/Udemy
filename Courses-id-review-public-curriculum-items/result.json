@@ -1,0 +1,157 @@
+{
+  "count": 509,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "_class": "course_review",
+      "id": 168536168,
+      "content": "",
+      "rating": 4.5,
+      "created": "2024-03-11T02:26:51-07:00",
+      "modified": "2024-03-12T16:22:45-07:00",
+      "user_modified": "2024-03-11T02:26:51-07:00",
+      "user": {
+        "_class": "user",
+        "title": "服部奈々",
+        "name": "服部奈々",
+        "display_name": "服部奈々"
+      }
+    },
+    {
+      "_class": "course_review",
+      "id": 168517244,
+      "content": "",
+      "rating": 3.5,
+      "created": "2024-03-10T22:35:55-07:00",
+      "modified": "2024-03-11T18:23:40-07:00",
+      "user_modified": "2024-03-10T22:35:57-07:00",
+      "user": {
+        "_class": "user",
+        "title": "高山 淳",
+        "name": "高山",
+        "display_name": "高山 淳"
+      }
+    },
+    {
+      "_class": "course_review",
+      "id": 168465848,
+      "content": "",
+      "rating": 4,
+      "created": "2024-03-10T03:45:02-07:00",
+      "modified": "2024-03-11T18:24:21-07:00",
+      "user_modified": "2024-03-10T03:45:03-07:00",
+      "user": {
+        "_class": "user",
+        "title": "タケダ",
+        "name": "タケダ",
+        "display_name": "タケダ"
+      }
+    },
+    {
+      "_class": "course_review",
+      "id": 168454352,
+      "content": "",
+      "rating": 4,
+      "created": "2024-03-09T22:10:07-08:00",
+      "modified": "2024-03-10T16:20:01-07:00",
+      "user_modified": "2024-03-09T22:10:09-08:00",
+      "user": {
+        "_class": "user",
+        "title": "山岸英文",
+        "name": "山岸英文",
+        "display_name": "山岸英文"
+      }
+    },
+    {
+      "_class": "course_review",
+      "id": 168449822,
+      "content": "",
+      "rating": 4.5,
+      "created": "2024-03-09T19:45:05-08:00",
+      "modified": "2024-03-10T16:20:01-07:00",
+      "user_modified": "2024-03-09T19:45:07-08:00",
+      "user": {
+        "_class": "user",
+        "title": "置田 章",
+        "name": "置田",
+        "display_name": "置田 章"
+      }
+    },
+    {
+      "_class": "course_review",
+      "id": 168446054,
+      "content": "",
+      "rating": 4.5,
+      "created": "2024-03-09T17:25:02-08:00",
+      "modified": "2024-03-10T16:20:02-07:00",
+      "user_modified": "2024-03-09T17:25:03-08:00",
+      "user": {
+        "_class": "user",
+        "title": "竹下 恭平",
+        "name": "竹下",
+        "display_name": "竹下 恭平"
+      }
+    },
+    {
+      "_class": "course_review",
+      "id": 168393406,
+      "content": "",
+      "rating": 3.5,
+      "created": "2024-03-08T19:12:02-08:00",
+      "modified": "2024-03-09T15:08:34-08:00",
+      "user_modified": "2024-03-08T19:12:03-08:00",
+      "user": {
+        "_class": "user",
+        "title": "Staff-08 a",
+        "name": "Staff-08",
+        "display_name": "Staff-08 a"
+      }
+    },
+    {
+      "_class": "course_review",
+      "id": 168318498,
+      "content": "",
+      "rating": 3.5,
+      "created": "2024-03-07T22:25:38-08:00",
+      "modified": "2024-03-08T15:20:03-08:00",
+      "user_modified": "2024-03-07T22:25:45-08:00",
+      "user": {
+        "_class": "user",
+        "title": "中野諒",
+        "name": "中野諒",
+        "display_name": "中野諒"
+      }
+    },
+    {
+      "_class": "course_review",
+      "id": 168315416,
+      "content": "",
+      "rating": 4,
+      "created": "2024-03-07T21:38:49-08:00",
+      "modified": "2024-03-08T15:20:03-08:00",
+      "user_modified": "2024-03-07T21:38:51-08:00",
+      "user": {
+        "_class": "user",
+        "title": "石川 弘幸",
+        "name": "石川",
+        "display_name": "石川 弘幸"
+      }
+    },
+    {
+      "_class": "course_review",
+      "id": 168298048,
+      "content": "",
+      "rating": 4,
+      "created": "2024-03-07T15:24:38-08:00",
+      "modified": "2024-03-08T15:20:04-08:00",
+      "user_modified": "2024-03-07T15:24:38-08:00",
+      "user": {
+        "_class": "user",
+        "title": "奥村優奈",
+        "name": "奥村優奈",
+        "display_name": "奥村優奈"
+      }
+    }
+  ]
+}
